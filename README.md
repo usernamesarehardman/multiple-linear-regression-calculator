@@ -38,7 +38,7 @@ pip install pandas statsmodels scikit-learn matplotlib seaborn
    - Save the script as `multiple_regression.py`.
    - Execute the script in a terminal or IDE:
      ```bash
-     python multiple_regression.py
+     python MLR.py
      ```
 
 3. **Interpret Results**:

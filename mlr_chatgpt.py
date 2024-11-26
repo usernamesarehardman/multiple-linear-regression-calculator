@@ -1,3 +1,5 @@
+# Written entirely by ChatGPT
+
 # Import libraries
 import pandas as pd
 import statsmodels.api as sm
